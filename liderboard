@@ -1,12 +1,14 @@
 [
     {
+        "id": "1",
         "nickname": "JohnDoe",
         "photoURL": "https://i.ibb.co/FssbCCy/ava1.jpg",
         "bestScore": 71
     },
     {
+        "id": "2",
         "nickname": "JaneMi",
         "photoURL": "https://i.ibb.co/rdM4LLs/sdsadsd.jpg",
-        "bestScore": 91
+        "bestScore": 94
     }
 ]
